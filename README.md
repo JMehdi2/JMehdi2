@@ -1,15 +1,15 @@
 <h1>Hi, I'm Mehdi. Welcome to my Economics Portfolio!<br/><a href="https://www.linkedin.com/in/mehdi-jaddour-ba3a28251/">Industrial Engineer</a>
 
-<h2> About Me:</h2>
+<h2> About Me</h2>
 I’m an Industrial Engineering graduate who, driven by a deep interest in economics, pursued extensive self-directed learning to transition into this field. Along the way, I built my proficiency in English, achieved high GRE and TOEFL scores, and earned a scholarship to study Economics at Corvinus University of Budapest. Although my path took an unexpected turn, bringing me back home in 2023 due to personal commitments, I’ve since focused on independent research, working to deepen my expertise in economics—from macroeconomic trends to firm-level insights. My perspective is shaped by resilience and a commitment to understanding complex economic phenomena, with a particular focus on market and firm levels.
 
-<h2> Portfolio Mandates:</h2>
+<h2> Portfolio Mandates</h2>
 This portfolio has several purposes. It is a space to showcase and build a live track of my evolving skills and work in economics. By sharing these projects, I also aim to invite discussion, welcome feedback, and connect with others in the field. Finally, through thoroughness and clarity, I hope to create a resource that benefits other learners like myself. Together, these mandates make this portfolio both a record of my journey and a place for growth, discussion, and shared learning.
 
-<h2> Portfolio Overview:</h2>
+<h2> Portfolio Overview</h2>
 
 
-<h2>👨‍💻 Economic Analysis School Projects:</h2>
+<h2>👨‍💻 Economic Analysis School Projects</h2>
 
 - <b>Advanced Macroeconomics</b>
   - [Business cycles analysis](https://github.com/JMehdi2/School-Projects/tree/main/Business_cycle_description-Cyprus)
