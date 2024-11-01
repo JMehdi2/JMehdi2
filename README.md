@@ -7,11 +7,10 @@ I graduated from the Mohammadia School of Engineers in Morocco with a degree in 
 This portfolio has several purposes. It is a space to showcase and build a live track of my evolving skills and work in economics. By sharing these projects, I also aim to invite discussion, welcome feedback, and connect with others in the field. Finally, through thoroughness and clarity, I hope to create a resource that benefits other learners like myself. Together, these mandates make this portfolio both a record of my journey and a place for growth, discussion, and shared learning.
 
 <h2> Portfolio Overview</h2>
-This portfolio centers on a primary theme—The Turkish Grocery Discount Retail Market. Within this framework, I conduct various analyses, including macroeconomic assessments to understand market development, applying Industrial Organization theory to examine market configurations, and evaluating specific firms within the sector to analyze their individual situations. Additionally, the portfolio includes side projects covering miscellaneous topics, including two mini-projects from the semester I studied in the Economic Analysis master's program.
+This portfolio centers on a primary theme—The Turkish Grocery Discount Retail Market. Within this framework, I conduct various analyses, including macroeconomic assessments to understand market development, applying Industrial Organization theory to examine market configurations, and evaluating specific firms within the sector to analyze their individual situations. Additionally, the portfolio includes side projects covering various topics, including one mini-project from the semester I studied in the Economic Analysis master's program.
 
-<h2>👨‍💻 Economic Analysis School Projects</h2>
+<h2>👨‍💻 Other Projects of Interest</h2>
 
-- [<b>Describing Business Cycles in Cyprus</b>](https://github.com/JMehdi2/School-Projects/tree/main/Business_cycle_description-Cyprus)
 - [<b>Measuring the Causal Effect of English Language Pre-Training on Employment of Refugees in the USA</b>](https://github.com/JMehdi2/School-Projects/tree/main/CAUSAL%20EFFECT%20OF%20ENGLISH%20LANGUAGE%20PRE-TRAININGS%20ON%20EMPLOYMENT%20OF%20REFUGEES%20IN%20THE%20USA) 
 
 
