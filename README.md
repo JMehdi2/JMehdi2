@@ -11,12 +11,11 @@
 
 <h2>Main Theme Projects</h2>
 
-- [<b>Major Economic Developments in Turkey: 1998 to Mid-2024</b>](https://github.com/JMehdi2/Major-Economic-Developments-in-Turkey-1998-Mid2024) 
-<p><i>Ongoing</i></p>
+- [<b>Major Economic Developments in Turkey: 1998 to Mid-2024</b>](https://github.com/JMehdi2/Major-Economic-Developments-in-Turkey-1998-Mid2024) <i>(Ongoing)</i>
 
-<h2>👨‍💻 Additional Projects</h2>
+<h2>Additional Projects</h2>
 
-- [<b>Measuring the Causal Effect of English Language Pre-Training on Employment of Refugees in the USA</b>](https://github.com/JMehdi2/School-Projects/tree/main/CAUSAL%20EFFECT%20OF%20ENGLISH%20LANGUAGE%20PRE-TRAININGS%20ON%20EMPLOYMENT%20OF%20REFUGEES%20IN%20THE%20USA) 
+- [<b>Measuring the Causal Effect of English Language Pre-Training on the Employment of Refugees in the USA</b>](https://github.com/JMehdi2/Additional-Projects/tree/main/CAUSAL%20EFFECT%20OF%20ENGLISH%20LANGUAGE%20PRE-TRAININGS%20ON%20EMPLOYMENT%20OF%20REFUGEES%20IN%20THE%20USA) 
 <p><i>Ongoing</i></p>
 
 <h2> 🤳 Connect with me:</h2>
