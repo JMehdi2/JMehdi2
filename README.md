@@ -1,7 +1,7 @@
-<h1>Hi, I'm Mehdi. Welcome to my Economics Portfolio!<br/><a href="https://www.linkedin.com/in/mehdi-jaddour-ba3a28251/">Industrial Engineer</a>
+<h1>Hi, I'm Mehdi. Welcome to my Economics Portfolio!<br/><a href="https://www.linkedin.com/in/mehdi-jaddour/">Industrial Engineer | Independent Researcher in Economics</a>
 
 <h2> About Me</h2>
-<p>I graduated from the Mohammadia School of Engineers in Morocco with a degree in Industrial Engineering. Driven by a deep interest in economics, I pursued extensive self-directed learning to transition into this field. Along the way, I built my proficiency in English, achieved high GRE and TOEFL scores, and earned a scholarship to study Economic Analysis at Corvinus University of Budapest. Although my path took an unexpected turn, bringing me back home in 2023 before completing the degree due to personal commitments, I’ve since focused on independent research to deepen my knowledge of economics—from macroeconomic trends to firm-level insights. My perspective is shaped by resilience and a commitment to understanding complex economic phenomena, particularly at the market and firm levels.<p>
+<p>I graduated from the Mohammadia School of Engineers in Morocco with a degree in Industrial Engineering. Driven by a deep interest in economics, I pursued extensive self-directed learning to transition into this field. Along the way, I built my proficiency in English, achieved high GRE and TOEFL scores, and earned a scholarship to study Economic Analysis at Corvinus University of Budapest. Although my path took an unexpected turn, bringing me back home before completing the degree due to personal commitments, I’ve since focused on independent research to build a broad and deep understanding of economic principles. My perspective is shaped by resilience and a commitment to understanding complex economic phenomena, particularly at the market and firm levels.<p>
 
 <h2> Portfolio Mandates</h2>
 <p>This portfolio has several purposes. It is a space to showcase and build a live track of my evolving skills and work in economics. By sharing these projects, I also aim to invite discussion, welcome feedback, and connect with others in the field. Finally, through thoroughness and clarity, I hope to create a resource that benefits other learners like myself. Together, these mandates make this portfolio both a record of my journey and a place for growth, discussion, and shared learning.<p>
@@ -23,4 +23,4 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/mehdi-jaddour-ba3a28251/
+[linkedin]: https://www.linkedin.com/in/mehdi-jaddour/
